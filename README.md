@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rsnmcltr
 - 👀 I’m interested in ... VR, MR and synthetic media
 - 🌱 I’m currently learning ... fortran
-- 💞️ I’m looking to collaborate on ... VR and MR projects, UX design
+- 💞️ I’m looking to collaborate on ... VR and MR projects, UX design, synthetic video and audio
 - 📫 How to reach me ... ross@nomenclaturefilm.com
 
 <!---
